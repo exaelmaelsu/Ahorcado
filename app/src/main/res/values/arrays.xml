@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="words">
+        <item>INGENIERO</item>
         <item>ANDROID</item>
-        <item>COMPUTADORA</item>
-        <item>CODY</item>
+        <item>BUENO</item>
+        <item>PERDONA</item>
+        <item>ALUMNO</item>
+        <item>PORQUE</item>
+        <item>SIN</item>
+        <item>IMPLEMENTAR</item>
+        <item>JASON</item>
     </string-array>
 
 </resources>
